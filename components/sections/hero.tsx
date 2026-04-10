@@ -16,7 +16,7 @@ export default function Hero() {
 
             <div className="space-y-2">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground text-pretty leading-tight">
-                Goodness Oboseye Ehimen
+                John Faith
               </h1>
               <p className="text-lg sm:text-xl text-accent font-medium">
                 Aspiring Web Developer | Learning HTML, CSS, JavaScript
@@ -47,7 +47,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-accent/10 rounded-2xl border border-border flex items-center justify-center overflow-hidden">
               <div className="flex flex-col items-center justify-center gap-4 text-muted-foreground">
                 <div className="w-24 h-24 bg-primary/20 rounded-full flex items-center justify-center">
-                  <Image src="/logo.jpeg" alt="Profile Image" width={80} height={80} className="rounded-full object-cover" />
+                  <Image src="/bal.jpeg" alt="Profile Image" width={80} height={80} className="rounded-full object-cover" />
                   {/* <div className="w-20 h-20 bg-primary/40 rounded-full" /> */}
                 </div>
                 <p className="text-sm text-center">Profile Image</p>
